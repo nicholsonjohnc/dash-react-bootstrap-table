@@ -1,0 +1,13 @@
+Package: dashReactBootstrapTable
+Title: Dash component for react-bootstrap-table2
+Version: 0.0.1
+Description: Dash component for react-bootstrap-table2
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/nicholsonjohnc/dash-react-bootstrap-table
+BugReports: https://github.com/nicholsonjohnc/dash-react-bootstrap-table/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

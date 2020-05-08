@@ -1,0 +1,7 @@
+include dash_react_bootstrap_table/dash_react_bootstrap_table.min.js
+include dash_react_bootstrap_table/dash_react_bootstrap_table.min.js.map
+include dash_react_bootstrap_table/metadata.json
+include dash_react_bootstrap_table/package-info.json
+include README.md
+include LICENSE
+include package.json
